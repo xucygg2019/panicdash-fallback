@@ -1,0 +1,16 @@
+{
+  "generatedAt": "2026-11-01T04:29:34.745Z",
+  "etToday": "2026-11-01",
+  "sources": {
+    "newsUpdated": "2026-11-01",
+    "timelineUpdated": "2026-10-31",
+    "earningsUpdated": "2026-10-30",
+    "leadersGeneratedAt": "2026-11-01T04:07:58.993Z"
+  },
+  "counts": {
+    "news": 24,
+    "timeline": 4,
+    "earningsRows": 18,
+    "leaders": 14
+  }
+}
