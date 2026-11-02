@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-02T05:29:52.319Z",
+  "generatedAt": "2026-11-02T15:30:56.819Z",
   "etToday": "2026-11-02",
   "sources": {
-    "newsUpdated": "2026-11-01",
-    "timelineUpdated": "2026-11-01",
-    "earningsUpdated": "2026-10-30",
-    "leadersGeneratedAt": "2026-11-02T04:37:57.048Z"
+    "newsUpdated": "2026-11-02",
+    "timelineUpdated": "2026-11-02",
+    "earningsUpdated": "2026-11-02",
+    "leadersGeneratedAt": "2026-11-02T15:08:10.780Z"
   },
   "counts": {
     "news": 24,
-    "timeline": 4,
+    "timeline": 3,
     "earningsRows": 18,
     "leaders": 14,
     "resultsRecent": 12,
-    "resultsTotal": 106,
+    "resultsTotal": 107,
     "glossary": 18,
-    "glossaryTotal": 720
+    "glossaryTotal": 725
   }
 }
