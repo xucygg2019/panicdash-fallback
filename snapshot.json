@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-03T15:30:08.958Z",
+  "generatedAt": "2026-11-03T18:40:36.731Z",
   "etToday": "2026-11-03",
   "sources": {
     "newsUpdated": "2026-11-03",
     "timelineUpdated": "2026-11-03",
     "earningsUpdated": "2026-11-03",
-    "leadersGeneratedAt": "2026-11-03T15:08:02.109Z"
+    "leadersGeneratedAt": "2026-11-03T18:08:12.870Z"
   },
   "counts": {
     "news": 24,
@@ -16,6 +16,11 @@
     "resultsTotal": 124,
     "heat": 10,
     "heatTop": "LITE",
+    "shorts": 10,
+    "shortsTotal": 80,
+    "shortsTop": "LCID",
+    "movers": 8,
+    "moversTop": "FTNT",
     "glossary": 18,
     "glossaryTotal": 730
   }
