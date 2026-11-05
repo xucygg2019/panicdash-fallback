@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-04T15:35:51.493Z",
-  "etToday": "2026-11-04",
+  "generatedAt": "2026-11-05T05:47:57.319Z",
+  "etToday": "2026-11-05",
   "sources": {
     "newsUpdated": "2026-11-04",
     "timelineUpdated": "2026-11-04",
     "weeklyUpdated": "2026-11-04",
     "earningsUpdated": "2026-11-04",
-    "leadersGeneratedAt": "2026-11-04T15:08:34.964Z"
+    "leadersGeneratedAt": "2026-11-05T04:38:01.752Z"
   },
   "counts": {
     "news": 24,
     "timeline": 3,
     "earningsRows": 18,
     "leaders": 14,
-    "resultsRecent": 18,
-    "resultsTotal": 134,
+    "resultsRecent": 24,
+    "resultsTotal": 140,
     "heat": 10,
     "heatTop": "LITE",
     "shorts": 10,
@@ -26,9 +26,19 @@
     "glossaryTotal": 735,
     "weeklyThis": 7,
     "weeklyLast": 6,
-    "calItems": 51,
-    "calPreviews": 45,
-    "calResults": 5,
-    "calTentative": 2
+    "calItems": 44,
+    "calPreviews": 44,
+    "calResults": 0,
+    "calTentative": 1,
+    "insiderBuys": 8,
+    "insiderSells": 8,
+    "insiderBuyers": 12,
+    "insiderSellers": 149,
+    "insiderBuyTop": "IIPR",
+    "insiderSellTop": "ANET",
+    "insiderBuyTrades": 23,
+    "insiderSellTrades": 750,
+    "insiderFrom": "2026-10-04",
+    "insiderTo": "2026-11-03"
   }
 }
