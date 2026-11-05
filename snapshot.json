@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-05T05:50:25.465Z",
+  "generatedAt": "2026-11-05T15:59:43.926Z",
   "etToday": "2026-11-05",
   "sources": {
-    "newsUpdated": "2026-11-04",
-    "timelineUpdated": "2026-11-04",
-    "weeklyUpdated": "2026-11-04",
-    "earningsUpdated": "2026-11-04",
-    "leadersGeneratedAt": "2026-11-05T05:07:57.878Z"
+    "newsUpdated": "2026-11-05",
+    "timelineUpdated": "2026-11-05",
+    "weeklyUpdated": "2026-11-05",
+    "earningsUpdated": "2026-11-05",
+    "leadersGeneratedAt": "2026-11-05T15:39:07.404Z"
   },
   "counts": {
     "news": 24,
     "timeline": 3,
     "earningsRows": 18,
     "leaders": 14,
-    "resultsRecent": 24,
-    "resultsTotal": 140,
+    "resultsRecent": 14,
+    "resultsTotal": 143,
     "heat": 10,
     "heatTop": "LITE",
     "shorts": 10,
@@ -23,12 +23,12 @@
     "movers": 8,
     "moversTop": "FTNT",
     "glossary": 18,
-    "glossaryTotal": 735,
-    "weeklyThis": 7,
+    "glossaryTotal": 740,
+    "weeklyThis": 10,
     "weeklyLast": 6,
     "calItems": 44,
-    "calPreviews": 44,
-    "calResults": 0,
+    "calPreviews": 41,
+    "calResults": 3,
     "calTentative": 1,
     "insiderBuys": 8,
     "insiderSells": 8,
@@ -39,6 +39,10 @@
     "insiderBuyTrades": 23,
     "insiderSellTrades": 750,
     "insiderFrom": "2026-10-04",
-    "insiderTo": "2026-11-03"
+    "insiderTo": "2026-11-03",
+    "radarFallen": 3,
+    "radarWatch": 8,
+    "radarAsOf": "2026-11-04 收盘",
+    "radarFirst": "LITE"
   }
 }
