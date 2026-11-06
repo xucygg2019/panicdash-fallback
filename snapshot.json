@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T18:42:09.592Z",
-  "etToday": "2026-11-05",
+  "generatedAt": "2026-11-06T05:30:22.393Z",
+  "etToday": "2026-11-06",
   "sources": {
-    "newsUpdated": "2026-11-05",
+    "newsUpdated": "2026-11-06",
     "timelineUpdated": "2026-11-05",
     "weeklyUpdated": "2026-11-05",
     "earningsUpdated": "2026-11-05",
-    "leadersGeneratedAt": "2026-11-05T18:38:13.146Z"
+    "leadersGeneratedAt": "2026-11-06T05:08:16.343Z"
   },
   "counts": {
     "news": 24,
@@ -14,9 +14,9 @@
     "earningsRows": 18,
     "leaders": 14,
     "resultsRecent": 14,
-    "resultsTotal": 143,
+    "resultsTotal": 154,
     "heat": 10,
-    "heatTop": "LITE",
+    "heatTop": "CEG",
     "shorts": 10,
     "shortsTotal": 80,
     "shortsTop": "LCID",
@@ -26,10 +26,10 @@
     "glossaryTotal": 740,
     "weeklyThis": 10,
     "weeklyLast": 6,
-    "calItems": 44,
-    "calPreviews": 41,
-    "calResults": 3,
-    "calTentative": 1,
+    "calItems": 34,
+    "calPreviews": 34,
+    "calResults": 0,
+    "calTentative": 2,
     "insiderBuys": 8,
     "insiderSells": 8,
     "insiderBuyers": 12,
@@ -56,6 +56,13 @@
     "polLagAvg": 71,
     "polConsensus": 8,
     "polConsensusTop": "US-TBILL",
-    "polConsensusList": "US-TBILL:5/1/10/10,SPCX:4/1/5/1,MU:3/1/5/2,TSM:3/1/4/1,MNST:2/0/3/0,APP:2/0/2/0,AMAT:3/2/5/2,ACN:2/1/4/3"
+    "polConsensusList": "US-TBILL:5/1/10/10,SPCX:4/1/5/1,MU:3/1/5/2,TSM:3/1/4/1,MNST:2/0/3/0,APP:2/0/2/0,AMAT:3/2/5/2,ACN:2/1/4/3",
+    "macroFinal": 8,
+    "macroFinalTotal": 15,
+    "macroFinalLatest": "2026-11-05",
+    "macroFinalFirstLabel": "美国每周初请失业金人数（截至 10 月 31 日当周）",
+    "macroFred": 10,
+    "macroFredUpdated": "2026-11-03T14:37:52.202Z",
+    "macroFredFirst": "CPIAUCSL"
   }
 }
