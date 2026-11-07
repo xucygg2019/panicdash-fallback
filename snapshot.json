@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T15:29:06.406Z",
+  "generatedAt": "2026-11-07T18:43:16.512Z",
   "etToday": "2026-11-07",
   "sources": {
     "newsUpdated": "2026-11-07",
     "timelineUpdated": "2026-11-07",
     "weeklyUpdated": "2026-11-06",
     "earningsUpdated": "2026-11-06",
-    "leadersGeneratedAt": "2026-11-07T15:08:03.569Z"
+    "leadersGeneratedAt": "2026-11-07T18:38:21.451Z"
   },
   "counts": {
     "news": 24,
@@ -71,6 +71,18 @@
     "waEarnings": 17,
     "waMacro": 4,
     "waPreviews": 17,
-    "waFirstTitle": "Lucid Group（LCID）、Take-Two Interactive（TTWO）、Occidental Petroleum（OXY）、KKR & Co.（KKR）、Rocket Lab（RKLB）、AST SpaceMobile（ASTS）、The Trade Desk（TTD）、Constellation Energy（CEG） · 盘后"
+    "waFirstTitle": "Lucid Group（LCID）、Take-Two Interactive（TTWO）、Occidental Petroleum（OXY）、KKR & Co.（KKR）、Rocket Lab（RKLB）、AST SpaceMobile（ASTS）、The Trade Desk（TTD）、Constellation Energy（CEG） · 盘后",
+    "ownRows": 10,
+    "ownTotal": 80,
+    "ownTopTicker": "CVNA",
+    "ownList": "CVNA:105.13,ARM:96.25,LITE:94.29,TMO:93.86,DDOG:93.23,TXN:91.76,MA:90.98,NET:90.72,V:90.04,ABNB:89.98",
+    "ownMedianPct": "76.86",
+    "ownMedianTop3": "19.51",
+    "ownDomName": "Blackrock Inc.",
+    "ownDomTop1": 65,
+    "ownDomTop3": 75,
+    "ownMainDate": "2026-06-30",
+    "ownInsiderList": "WMT:44.25,ORCL:38.40,RIVN:34.54,MS:24.41,CRWV:18.62",
+    "ownUpdated": "2026-10-29T04:28:25.407Z"
   }
 }
