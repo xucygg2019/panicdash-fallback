@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-06T15:37:58.297Z",
-  "etToday": "2026-11-06",
+  "generatedAt": "2026-11-07T05:28:58.537Z",
+  "etToday": "2026-11-07",
   "sources": {
-    "newsUpdated": "2026-11-06",
+    "newsUpdated": "2026-11-07",
     "timelineUpdated": "2026-11-06",
     "weeklyUpdated": "2026-11-06",
     "earningsUpdated": "2026-11-06",
-    "leadersGeneratedAt": "2026-11-06T15:08:02.473Z"
+    "leadersGeneratedAt": "2026-11-07T05:08:11.436Z"
   },
   "counts": {
     "news": 24,
-    "timeline": 3,
+    "timeline": 4,
     "earningsRows": 18,
     "leaders": 14,
     "resultsRecent": 20,
@@ -24,11 +24,11 @@
     "moversTop": "FTNT",
     "glossary": 18,
     "glossaryTotal": 745,
-    "weeklyThis": 13,
+    "weeklyThis": 14,
     "weeklyLast": 6,
-    "calItems": 34,
+    "calItems": 28,
     "calPreviews": 28,
-    "calResults": 6,
+    "calResults": 0,
     "calTentative": 2,
     "insiderBuys": 8,
     "insiderSells": 8,
@@ -42,7 +42,7 @@
     "insiderTo": "2026-11-03",
     "radarFallen": 3,
     "radarWatch": 8,
-    "radarAsOf": "2026-11-05 收盘",
+    "radarAsOf": "2026-11-06 收盘",
     "radarFirst": "LITE",
     "polRecent": 12,
     "polTotal": 880,
@@ -63,6 +63,14 @@
     "macroFinalFirstLabel": "美国每周初请失业金人数（截至 10 月 31 日当周）",
     "macroFred": 10,
     "macroFredUpdated": "2026-11-03T14:37:52.202Z",
-    "macroFredFirst": "CPIAUCSL"
+    "macroFredFirst": "CPIAUCSL",
+    "waStart": "2026-11-09",
+    "waEnd": "2026-11-13",
+    "waDays": 4,
+    "waEvents": 9,
+    "waEarnings": 17,
+    "waMacro": 4,
+    "waPreviews": 17,
+    "waFirstTitle": "Lucid Group（LCID）、Take-Two Interactive（TTWO）、Occidental Petroleum（OXY）、KKR & Co.（KKR）、Rocket Lab（RKLB）、AST SpaceMobile（ASTS）、The Trade Desk（TTD）、Constellation Energy（CEG） · 盘后"
   }
 }
