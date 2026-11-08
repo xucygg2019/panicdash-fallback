@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T18:43:16.512Z",
-  "etToday": "2026-11-07",
+  "generatedAt": "2026-11-08T05:31:01.900Z",
+  "etToday": "2026-11-08",
   "sources": {
-    "newsUpdated": "2026-11-07",
+    "newsUpdated": "2026-11-08",
     "timelineUpdated": "2026-11-07",
     "weeklyUpdated": "2026-11-06",
     "earningsUpdated": "2026-11-06",
-    "leadersGeneratedAt": "2026-11-07T18:38:21.451Z"
+    "leadersGeneratedAt": "2026-11-08T05:08:02.108Z"
   },
   "counts": {
     "news": 24,
@@ -58,9 +58,9 @@
     "polConsensusTop": "US-TBILL",
     "polConsensusList": "US-TBILL:5/1/10/10,SPCX:3/1/4/1,TSM:3/1/4/1,MNST:2/0/3/0,APP:2/0/2/0,BHE:2/0/2/0,PG:4/3/5/3,AMAT:3/2/6/2",
     "macroFinal": 8,
-    "macroFinalTotal": 15,
-    "macroFinalLatest": "2026-11-05",
-    "macroFinalFirstLabel": "美国每周初请失业金人数（截至 10 月 31 日当周）",
+    "macroFinalTotal": 16,
+    "macroFinalLatest": "2026-11-06",
+    "macroFinalFirstLabel": "美国 10 月非农就业数据",
     "macroFred": 10,
     "macroFredUpdated": "2026-11-07T14:38:00.202Z",
     "macroFredFirst": "CPIAUCSL",
@@ -83,6 +83,16 @@
     "ownDomTop3": 75,
     "ownMainDate": "2026-06-30",
     "ownInsiderList": "WMT:44.25,ORCL:38.40,RIVN:34.54,MS:24.41,CRWV:18.62",
-    "ownUpdated": "2026-10-29T04:28:25.407Z"
+    "ownUpdated": "2026-10-29T04:28:25.407Z",
+    "secRows": 12,
+    "secTotal": 241,
+    "secSubstantive": 90,
+    "secTickers": 169,
+    "secTopTicker": "O",
+    "secTopDate": "2026-11-06",
+    "secList": "O:2026-11-06,KLAC:2026-11-06,IIPR:2026-11-06,WYNN:2026-11-05,VST:2026-11-05,UPS:2026-11-05,NEE:2026-11-05,MU:2026-11-05,MSFT:2026-11-05,META:2026-11-05,LRCX:2026-11-05,HCA:2026-11-05",
+    "secTypeTop": "其他重大事件",
+    "secTypeTopN": 44,
+    "secUpdated": "2026-11-07T05:47:17.414Z"
   }
 }
