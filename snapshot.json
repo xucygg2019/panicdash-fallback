@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-08T15:30:56.328Z",
-  "etToday": "2026-11-08",
+  "generatedAt": "2026-11-09T05:30:14.201Z",
+  "etToday": "2026-11-09",
   "sources": {
     "newsUpdated": "2026-11-08",
-    "timelineUpdated": "2026-11-07",
+    "timelineUpdated": "2026-11-08",
     "weeklyUpdated": "2026-11-06",
     "earningsUpdated": "2026-11-08",
-    "leadersGeneratedAt": "2026-11-08T15:08:00.521Z"
+    "leadersGeneratedAt": "2026-11-09T05:08:04.818Z"
   },
   "counts": {
     "news": 24,
@@ -93,6 +93,14 @@
     "secList": "O:2026-11-06,KLAC:2026-11-06,IIPR:2026-11-06,WYNN:2026-11-05,VST:2026-11-05,UPS:2026-11-05,NEE:2026-11-05,MU:2026-11-05,MSFT:2026-11-05,META:2026-11-05,LRCX:2026-11-05,HCA:2026-11-05",
     "secTypeTop": "其他重大事件",
     "secTypeTopN": 44,
-    "secUpdated": "2026-11-07T05:47:17.414Z"
+    "secUpdated": "2026-11-07T05:47:17.414Z",
+    "chainLayers": 6,
+    "chainSegs": 11,
+    "chainTickers": 45,
+    "chainAnchors": 9,
+    "chainList": "upstream/foundry:2,upstream/equipment:7,chips/compute:7,chips/memory:4,optical/modules:5,optical/networking:4,servers/servers:3,power/powercool:3,power/generation:3,cloud/hyperscale:5,cloud/neocloud:3",
+    "chainFirstSeg": "foundry",
+    "chainCross": "INTC:2",
+    "chainUpdated": "2026-10-20"
   }
 }
