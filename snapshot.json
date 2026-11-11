@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-11T05:32:59.462Z",
+  "generatedAt": "2026-11-11T07:09:57.158Z",
   "etToday": "2026-11-11",
   "sources": {
     "newsUpdated": "2026-11-11",
     "timelineUpdated": "2026-11-10",
     "weeklyUpdated": "2026-11-10",
     "earningsUpdated": "2026-11-10",
-    "leadersGeneratedAt": "2026-11-11T05:08:13.120Z"
+    "leadersGeneratedAt": "2026-11-11T07:08:04.980Z"
   },
   "counts": {
     "news": 24,
@@ -85,15 +85,15 @@
     "ownInsiderList": "WMT:44.25,ORCL:38.40,RIVN:34.54,MS:24.41,CRWV:18.62",
     "ownUpdated": "2026-10-29T04:28:25.407Z",
     "secRows": 12,
-    "secTotal": 258,
-    "secSubstantive": 95,
-    "secTickers": 176,
+    "secTotal": 247,
+    "secSubstantive": 88,
+    "secTickers": 172,
     "secTopTicker": "VST",
     "secTopDate": "2026-11-09",
     "secList": "VST:2026-11-09,TXN:2026-11-09,TTD:2026-11-09,MSTR:2026-11-09,IIPR:2026-11-09,HUM:2026-11-09,AAPL:2026-11-09,O:2026-11-06,KLAC:2026-11-06,IIPR:2026-11-06,WYNN:2026-11-05,VST:2026-11-05",
     "secTypeTop": "其他重大事件",
     "secTypeTopN": 50,
-    "secUpdated": "2026-11-10T23:49:04.528Z",
+    "secUpdated": "2026-11-11T05:47:26.046Z",
     "chainLayers": 6,
     "chainSegs": 11,
     "chainTickers": 45,
